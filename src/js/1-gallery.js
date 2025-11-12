@@ -96,10 +96,10 @@ const lightbox = new SimpleLightbox('.gallery a', {
   widthRatio: 0.77,
   heightRatio: 0.92,
   closeText:
-    '<svg class="icon" width="32" height="32"><use href="./img/sprite.svg#icon-x"></use></svg>',
+    '<svg class="icon" width="32" height="32"><use href="/goit-js-hw-09/src/img/sprite.svg#icon-x"></use></svg>',
   navText: [
     '<svg class="icon" width="24" height="24"><use href="./img/sprite.svg#icon-left"></use></svg>',
-    '<svg class="icon" width="24" height="24"><use href="./img/sprite.svg#icon-right"></use></svg>',
+    '<svg class="icon" width="24" height="24"><use href="/img/sprite.svg#icon-right"></use></svg>',
   ],
 });
 
