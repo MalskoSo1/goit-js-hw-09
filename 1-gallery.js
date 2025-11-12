@@ -7,5 +7,5 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";import{S as p}from"./assets/
         alt="${t}" 
       />
     </a>
-  </li>`).join("");e.insertAdjacentHTML("beforeend",s);new p(".gallery a",{captions:!0,captionsData:"alt",captionDelay:250,widthRatio:.77,heightRatio:.92,closeText:'<svg class="icon" width="32" height="32"><use href="./img/sprite.svg#icon-x"></use></svg>',navText:['<svg class="icon" width="24" height="24"><use href="./img/sprite.svg#icon-left"></use></svg>','<svg class="icon" width="24" height="24"><use href="./img/sprite.svg#icon-right"></use></svg>']});
+  </li>`).join("");e.insertAdjacentHTML("beforeend",s);new p(".gallery a",{captions:!0,captionsData:"alt",captionDelay:250,widthRatio:.77,heightRatio:.92,closeText:'<svg class="icon" width="32" height="32"><use href="/goit-js-hw-09/src/img/sprite.svg#icon-x"></use></svg>',navText:['<svg class="icon" width="24" height="24"><use href="./img/sprite.svg#icon-left"></use></svg>','<svg class="icon" width="24" height="24"><use href="/img/sprite.svg#icon-right"></use></svg>']});
 //# sourceMappingURL=1-gallery.js.map
